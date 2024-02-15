@@ -14,6 +14,8 @@ public class Main {
             System.out.println("i = " + i);
 
             System.out.println(Może i jesteś sigma ale ja jestem większym);
+
+            System.out.println(Już nie alfta teraz Sigma);
         }
     }
 }
