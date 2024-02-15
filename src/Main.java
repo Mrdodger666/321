@@ -16,6 +16,8 @@ public class Main {
             System.out.println(Może i jesteś sigma ale ja jestem większym);
 
             System.out.println(Już nie alfta teraz Sigma);
+
+            System.out.println(Taki Sigma jak dawno nie widzieli);
         }
     }
 }
